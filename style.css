@@ -69,7 +69,7 @@ main {
 }
 .banner img {
     width: 100%;
-    inset: 1px 1px 150px #000;
+    box-shadow: 3px 4px 5px 6px #000;
 }
 
 .texto-banner {
