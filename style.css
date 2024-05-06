@@ -69,6 +69,7 @@ main {
 }
 .banner img {
     width: 100%;
+    inset: 1px 1px 150px #000;
 }
 
 .texto-banner {
